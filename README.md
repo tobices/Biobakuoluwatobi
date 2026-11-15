@@ -15,12 +15,12 @@ Tools: Git · Postman · Docker · Jenkins
 🌐 Featured Work
 
 Project	Description	Link
-Webixhost	hosting and web development company: custom WordPress theme, plus WHMCS for client billing and automation	webixhost.com
+Webixhost	hosting and web development company: custom WordPress theme, plus WHMCS for client billing and automation	https://webixhost.com
 
-Webmanz	web design brand, where I built and maintained websites for clients	webmanz.com.ng
+Webmanz	web design brand, where I built and maintained websites for clients	https://webmanz.com.ng
 Posnap Travels	Travel agency website: design, build and hosting	https://posnaptravelsltd.com/
-Rayvo Travels	Travel agency website: design, build and hosting	rayvotravels.com
-Annaxmax Ltd	Corporate business website: design, build and hosting	annamaxltd.org
+Rayvo Travels	Travel agency website: design, build and hosting https://rayvotravels.com
+Annaxmax Ltd	Corporate business website: design, build and hosting	https://annamaxltd.org
 
 🛒 Shopify & WordPress
 
